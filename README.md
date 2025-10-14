@@ -35,5 +35,5 @@ A passionate **Software Developer specializing in Java**.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/> <!-- GitHub -->
   &nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/953/953939.png" width="55" height="55"/> <!-- Databases -->
+  <img src="https://pngimg.com/uploads/database/database_PNG5.png" width="55" height="55"/> <!-- Databases -->
 </p>
