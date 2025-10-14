@@ -18,8 +18,7 @@
   💻 I love building software and solving problems with clean, efficient code.
   <br>
   📚 Currently deepening my knowledge in <b>Data Structures, SQL, JavaFX</b> and modern software development tools.
-  <br>
-  💬 Ask me anything about programming from <a href="https://github.com/AbdelMajeedNasser?tab=repositories" title="GitHub Repositories">here</a>.
+ 
   <br>
   📫 How to reach me: <a href="mailto:mj.naser2005@gmail.com">mj.naser2005@gmail.com</a>
 </p>
