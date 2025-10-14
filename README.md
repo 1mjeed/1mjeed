@@ -22,14 +22,13 @@ A passionate **Software Developer specializing in Java**.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/>
+  
   &nbsp;
-  <img src="https://share.google/images/f3WqyVLb02sOpvZEG" width="55" height="55"/> <!-- OOP -->
-  &nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="55" height="55"/> <!-- Data Structures -->
+  <img src="https://miro.medium.com/1*J38nYZU7gzu-4lQmtjlSUw.jpeg" width="55" height="55"/> <!-- Data Structures -->
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/> <!-- SQL -->
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" width="55" height="55"/> <!-- JavaFX -->
+  <img src="https://pngset.com/images/javafx-text-alphabet-logo-symbol-transparent-png-1949402.png" width="55" height="55"/> <!-- JavaFX -->
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/> <!-- Git -->
   &nbsp;
