@@ -41,7 +41,8 @@ A passionate *Software Developer specializing in Java*.
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mj.naser2005&theme=react&border=61dafb&hide_border=true" width="390" />
+  <!-- صورة بديلة مؤقتة بدل Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mj.naser2005&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="390" alt="Streak Stats Placeholder"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mj.naser2005&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width="390" />
 </p>
 
