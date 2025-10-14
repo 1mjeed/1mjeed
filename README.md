@@ -33,71 +33,52 @@ A passionate *Software Developer specializing in Java*.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" style="vertical-align:middle;"/> <!-- GitHub -->
   &nbsp;
-  <img src="https://pngimg.com/uploads/database/database_PNG5.png" width="55" height="55" style="vertical-align:middle;"/> <!-- Databases -->
+  <img src="https://pngimg.com/uploads/database/database_PNG5.png" width="55" height="55" style="vertical-align:middle;"/> <!-- Databases -->
 </p>
+
+---
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
   <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="GitHub Streak Source">
-      <img align="left" width="390" src="https://streak-stats.demolab.com/?user=mj.naser2005&theme=react&border=61dafb&hide_border=true" alt="mj.naser2005 streak stats" />
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=mj.naser2005&theme=react&border=61dafb&hide_border=true" alt="mj.naser2005" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Source">
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=mj.naser2005&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="mj.naser2005 github stats" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mj.naser2005&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-
   <br><br><br><br><br><br><br><br><br>
-
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj.naser2005&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="mj.naser2005 top languages" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj.naser2005&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
-
   <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mj.naser2005&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="mj.naser2005 activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mj.naser2005&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mj-naser2005/Algorithms" title="Algorithms">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj-naser2005&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10" alt="Algorithms Repository">
-  </a>
-  <a align="right" href="https://github.com/mj-naser2005/DataStructures" title="Data Structures">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj-naser2005&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10" alt="Data Structures Repository">
-  </a>
+  <a align="left" href="https://github.com/mj.naser2005/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj.naser2005&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mj.naser2005/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj.naser2005&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
 <br/><br/><br/><br/><br/><br/>
-
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mj-naser2005/JavaFX-Projects" title="JavaFX Projects">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj-naser2005&repo=JavaFX-Projects&theme=react&border_color=61dafb&border_radius=10" alt="JavaFX Projects Repository">
-  </a>
-  <a align="right" href="https://github.com/mj-naser2005/Database-Systems" title="Database Systems">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj-naser2005&repo=Database-Systems&theme=react&border_color=61dafb&border_radius=10" alt="Database Systems Repository">
-  </a>
+  <a align="left" href="https://github.com/mj.naser2005/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj.naser2005&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mj.naser2005/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj.naser2005&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
 <br/><br/><br/><br/><br/><br/>
-
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mj-naser2005/Problem-Solving" title="Problem Solving">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj-naser2005&repo=Problem-Solving&theme=react&border_color=61dafb&border_radius=10" alt="Problem Solving Repository">
-  </a>
-  <a align="right" href="https://github.com/mj-naser2005/Codeforces-Solutions" title="Codeforces Solutions">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj-naser2005&repo=Codeforces-Solutions&theme=react&border_color=61dafb&border_radius=10" alt="Codeforces Solutions Repository">
-  </a>
+  <a align="left" href="https://github.com/mj.naser2005/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj.naser2005&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mj.naser2005/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mj.naser2005&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/mj-naser2005?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/mj.naser2005?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
