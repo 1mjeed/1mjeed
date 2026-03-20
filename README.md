@@ -1,40 +1,53 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=007acc&height=200&section=header&text=AbdelMajeed%20Nasser&fontSize=70&animation=fadeIn" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/عبدالمجيد-ناصر-a04081298" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" style="vertical-align:middle;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/mj.naser2005" target="_blank">
-    <img src="https://sta.codeforces.com/s/97947/images/codeforces-logo-with-telegram.png" width="120" style="vertical-align:middle;"/>
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="mailto:mj.naser2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### Hi, I'm AbdelMajeed Nasser 👋  
-A passionate *Software Developer specializing in Java*.  
-💻 I love building software and solving problems with clean, efficient code.  
-🧠 Currently deepening my knowledge in *Data Structures, SQL, JavaFX*, and modern software development tools.  
-💬 Ask me anything about programming from [here](mailto:mj.naser2005@gmail.com).
+### 👋 Hi there, I'm AbdelMajeed
+**Software Engineer | Backend Developer | CS Student at Al-Zaytoonah University**
+
+I am a passionate Software Developer focused on building scalable, clean, and efficient backend systems. Currently, I am honing my skills in Java/Spring Boot and .NET ecosystems while maintaining a strong foundation in Data Structures and Algorithms.
+
+- 🏗️ **Currently Working On:** Gym Management System (Java Swing/JDBC).
+- ⚙️ **Internship:** Developing enterprise solutions using **.NET & C#**.
+- 🎯 **Goal:** Mastering **Clean Architecture** and **Microservices**.
+- 🧩 **Problem Solving:** Active on **Codeforces**, focusing on algorithmic efficiency.
 
 ---
 
-## 🔥 Skills & Technologies 🔥  
+### 🛠️ Tech Stack & Tools
 
-<p align="center" style="line-height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" style="vertical-align:middle;"/>
-  &nbsp;
-  <img src="https://miro.medium.com/1*J38nYZU7gzu-4lQmtjlSUw.jpeg" width="55" height="55" style="vertical-align:middle;"/> <!-- Data Structures -->
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" style="vertical-align:middle;"/> <!-- SQL -->
-  &nbsp;
-  <img src="https://www.tutkit.com/storage/media/packages/352/352-javafx-fuer-gui-entwicklung-main-med.webp" width="55" height="55" style="vertical-align:middle;"/> <!-- JavaFX -->
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" style="vertical-align:middle;"/> <!-- Git -->
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" style="vertical-align:middle;"/> <!-- GitHub -->
-  &nbsp;
-  <img src="https://pngimg.com/uploads/database/database_PNG5.png" width="55" height="55" style="vertical-align:middle;"/> <!-- Databases -->
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-blue?style=flat) |
+| **Architecture** | `OOP` `Clean Architecture` `Design Patterns` `CQRS` |
+| **Tools & DB** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1mjeed&show_icons=true&theme=tokyonight&count_private=true" alt="AbdelMajeed GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mjeed&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
 
+<p align="center">
+  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
+</p>
