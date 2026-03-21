@@ -51,3 +51,13 @@ I am a passionate Software Developer focused on building scalable, clean, and ef
 <p align="center">
   <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
 </p>
+---
+
+### 📈 My GitHub Streak & Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1mjeed&theme=tokyonight&hide_border=true" alt="AbdelMajeed GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1mjeed&theme=tokyonight" alt="Detailed Stats" />
+</p>
