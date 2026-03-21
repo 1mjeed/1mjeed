@@ -66,9 +66,6 @@ I am a passionate Software Developer focused on building scalable, clean, and ef
 ### 🛠️ Featured Repositories
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=1mjeed&repo=Java-Hub&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1mjeed&repo=gym-management-system&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1mjeed&repo=Problem-Solving-Java&theme=tokyonight" />
-</p>
+
