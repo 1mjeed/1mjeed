@@ -55,7 +55,8 @@ I am a passionate Software Developer focused on building scalable, clean, and ef
 
 ### 📈 My GitHub Streak & Activity
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=1mjeed&theme=tokyonight&hide_border=true&v=2" /></p>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=1mjeed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ### 🛠️ Featured Repositories
