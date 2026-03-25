@@ -55,7 +55,7 @@ I am a passionate Software Developer focused on building scalable, clean, and ef
 
 ### 📈 My GitHub Streak & Activity
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1mjeed&theme=tokyonight&hide_border=true&cache_bust=999" alt="AbdelMajeed GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=1mjeed&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="AbdelMajeed GitHub Streak" />
 </p>
 ---
 
