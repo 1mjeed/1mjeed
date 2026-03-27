@@ -39,7 +39,7 @@ I am a passionate Software Developer focused on building scalable, clean, and ef
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activit
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1mjeed&show_icons=true&theme=tokyonight&count_private=true" alt="AbdelMajeed GitHub Stats" />
   <br/>
